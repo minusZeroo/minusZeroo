@@ -5,7 +5,7 @@
 
 <h3 align="center">
         <samp> > Hey There!, I am
-	<b style='color:#FF0000 !important;'>Paul Jideani</b>
+	<b style='color:#FF0000 !important;'>...</b>
         </samp>
 </h3>
 <p align="center"> 
